@@ -37,3 +37,8 @@ body{
 #post{
     padding: 1em;
 }
+
+.logo img{
+    width: 50px;
+    border-radius: 30%;
+}
