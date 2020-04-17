@@ -37,3 +37,12 @@ body{
 #post{
     padding: 1em;
 }
+
+#footer{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 2px;
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
